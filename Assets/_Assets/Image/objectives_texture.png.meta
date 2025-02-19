@@ -1,0 +1,2947 @@
+fileFormatVersion: 2
+guid: 27696258056879541bc620c72130e2a5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: objectives_texture_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 981
+        width: 12
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0deebafdc967b544ac25bf83cd60194
+      internalID: 1320200870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 982
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913db4b310dee2f4292a740199239e00
+      internalID: 1862763959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 982
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e914257d42506749ba9a1f90d1b80c6
+      internalID: -984692625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 947
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29d4ea17ed944d499849516dc3eabd0
+      internalID: -592363645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 984
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eeccd90ad5c0840bb5776350bcfe24
+      internalID: 1230772892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 984
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7497e4999d2e8154498030c9c59ef109
+      internalID: 2133036202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 984
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce665921dadb71438faad0d246e768a
+      internalID: 444365153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 989
+        width: 93
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5022d8f0e6b8241a8cf526c3343ca0
+      internalID: -1336947973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_8
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 989
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37033e5ebc44f404abcf20ca60d94e87
+      internalID: -1227484840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 989
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79ec281bc30cd4468bce91095a5d993
+      internalID: -1176080160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_10
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 989
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa72432ada8ebf4d98d6e18ac953137
+      internalID: 769613353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_11
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 984
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b68d5c346feee44a13baf295f0eb83
+      internalID: 1592671210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_12
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 989
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5644f932e620ba6438ac7d58f7585a8e
+      internalID: -1313065217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_13
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 882
+        width: 258
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72443b85fd6f1bf41b1cafe2fa96ce57
+      internalID: 597992846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_14
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 587
+        width: 382
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf4aa752ca10bc4d972b6d79eb291a0
+      internalID: 1534619458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_15
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 897
+        width: 124
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499d6d3df6e61fb4b9a320926d2f7583
+      internalID: 2099560114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_16
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1020
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80705c2ab5ff35444b7e9b14c6351fbd
+      internalID: -1910992981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1394cde9a1d18458549e53627801d1
+      internalID: -829183414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 946
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dba8469bf264e4d887b131d4b171ae
+      internalID: -1163142676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_19
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 947
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb0aa1581bea894abde692f7f9a92aa
+      internalID: -167665549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 912
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6385438692eec4f884644678208ae9
+      internalID: -7336412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 912
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7608c4d17b42a14896d064129ec85b2
+      internalID: 1238365576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_22
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 947
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5f3ba8cbb7415409b2c67b8c301e36
+      internalID: 1843198223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_23
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 887
+        width: 43
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54985b65ed0dd9f4e9175fc272efcca7
+      internalID: -1344851634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_24
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 912
+        width: 23
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5832ab206cbd7548b62f278a5874dde
+      internalID: 1148382997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_25
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 947
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a1a533c7cd86c4caadb7a86ead6067
+      internalID: 1782148245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_26
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 893
+        width: 29
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aef025c7b8f7fe43b852553dfba86aa
+      internalID: -171634978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 912
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fc7b2db2fff0446ab3bf3e01886a4b
+      internalID: -15491836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_28
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 947
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da7ca4a592bef34fa855ee4043b5d40
+      internalID: -1450565515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_29
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 947
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0313c895574ebef46b593d876e618f02
+      internalID: -1320828563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_30
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 947
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9d1c01d53e08447aea9a1461b177c3
+      internalID: 776430795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_31
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 947
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba22ae58e9d8c140af59551a05f2cb6
+      internalID: -1930428297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_32
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 947
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951dfdf52212b5b4ba413543edad5856
+      internalID: 925307470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_33
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 947
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de0f0d837e52b04594a85a1e86fd31b
+      internalID: -527998302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 887
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bcb3ccad929f84daeb5388ba9791dc
+      internalID: -1300954921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_35
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 912
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e00a532a3c43b478b3482573595b64
+      internalID: 890125041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_36
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 912
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ac776438ddfb34b8066e448f8408ab
+      internalID: 939322362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_37
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 912
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704c6711a1cfaaf4fb25c171a1249a0d
+      internalID: -1666883504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_38
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 918
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a081883560e03954a83e891f5a82b26b
+      internalID: -409603453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_39
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 920
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4811e259425e44593a3157687d3dbd
+      internalID: 798091600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_40
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 920
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893196aeb594c4441ae22bd52306bf06
+      internalID: -2108797348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_41
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 935
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81763e1834d6674a943dd6b880d6772
+      internalID: -863965163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_42
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 904
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87af52ebe39aa845a052833474898ca
+      internalID: -1352176119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 920
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400b71fe6786fde4a8aef1226830c186
+      internalID: 1374884630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 228
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e999be5a79aec43988566e02a952da
+      internalID: 809734543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_45
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 887
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c627920dde1484c903ed1ff8bcc589
+      internalID: 1243821747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_46
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 887
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc30769073e005c4aacaad66ffadb8c3
+      internalID: -370161035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_47
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 901
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408cbe504e52cfc49bd3c5fb8d2726e0
+      internalID: -40580787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_48
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 904
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d59133c99105eb4ca3c8f448417183f
+      internalID: 537536742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_49
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 894
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64837981d2bdd7479ebbce025c2fb34
+      internalID: 1250755441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_50
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 898
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daeb4364e6cf5004eb07b4dd0649d234
+      internalID: 43392993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_51
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 898
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6596c6421a476a94faa9cc25f7f4f485
+      internalID: 803363667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_52
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 901
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d257d08ed00ef4fae54fd80b5a6fa7
+      internalID: 361395645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_53
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 900
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea87ee42219e044faa45c16987f9e82
+      internalID: -1286659158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_54
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 902
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebb5647d482eee49abe462331345064
+      internalID: 1562930163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_55
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 903
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9848b6bc5f5194fb8421514734b2d4
+      internalID: -565831403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_56
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 903
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d506d49befeec4c9e582a4ad0e22a9
+      internalID: 1023316161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_57
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 890
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fe715de2128be479d28c3720d7426f
+      internalID: -1044813036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_58
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 895
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57c9f571fc0e1041b78ca53ca3a77c2
+      internalID: 1398144018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_59
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 586
+        width: 192
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847077b2b4f118c468a00bf11d0a0417
+      internalID: 1402791900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_60
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 888
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6059833e8c06e04991c6b2547c375ee
+      internalID: 1924589540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 888
+        width: 58
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734750d4d00cb4a4b99da0fa36cdc436
+      internalID: 501552370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_62
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 870
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3ac8a222d7d8f418e14f7a016ed6b3
+      internalID: -1872082898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_63
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 834
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62978d1f6b4b8d489d8fdf86ce5d695
+      internalID: -246386075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_64
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 848
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbb0dc2455004a44b0ccf9f8d102b22
+      internalID: 1424788277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_65
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 846
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a4810b8311ea545b4951430d2ea238
+      internalID: 642211994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_66
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 846
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c926792dc7012b47b8545a72512f2a4
+      internalID: -377596227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_67
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 846
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a3bc9e0e5f48b4c98fd2719ec16d25
+      internalID: -1326473351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_68
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 848
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ada1c31327bf864585ae9c940665c84
+      internalID: -796597417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_69
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 846
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cffb2950278845438a4481fa7dd1a75
+      internalID: 355472428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_70
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 611
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5986e3e80ab94e4429bf8fca84174ef7
+      internalID: -1927337237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_71
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 752
+        width: 45
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053426f8f8978c14c99bdb1c494f257a
+      internalID: -685694761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_72
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 798
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e1a9b9679c50c43b610ae0f87d89c7
+      internalID: -1614834676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_73
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 798
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bee9e4a2b83625428764f92bbb1096f
+      internalID: -307363493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_74
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 800
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fed4145ca77c7942bc8de1cd8a519c9
+      internalID: -1824010913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_75
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 800
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a30458574a3bfc4aa257ec53a608248
+      internalID: 1135469750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_76
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 800
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414e4a1389d17ae4dbcc135485109739
+      internalID: 767528389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_77
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 813
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad1e23bfa81ac24a8cb10b379947f7b
+      internalID: 1126007246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_78
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 786
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab26a7d21ee1284448f6a849422b99a1
+      internalID: -144607117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_79
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 798
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df77e7e641a360a41a424aee1eb4fe18
+      internalID: 1991144905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_80
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 738
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf35ecebeaa4d2c4db1b905d5ebbc90c
+      internalID: 1940196357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_81
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 751
+        width: 116
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baba52462b622d3418a17513b16ce4b6
+      internalID: 1724694915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_82
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 752
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1eeb1fdf6675134da67b84a01e8c1ad
+      internalID: 182407048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_83
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 696
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9244c7b1d9f0ada448e666d4b8515d5a
+      internalID: 1875639927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_84
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 704
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607d65f422df9564f9b04f837aac35b3
+      internalID: -389561952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_85
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 703
+        width: 116
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00be477729bf824ebc048238bc56260
+      internalID: -1860043659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_86
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 704
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f3fe893eb6c304a9a19416cb8042f6
+      internalID: 821533616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_87
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 682
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddca3fcde35f2ee46bf84edc9f3b4b7c
+      internalID: 1646798192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724e0afb398b51145aa1639c19897dcc
+      internalID: -885079400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_89
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 650
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42281d2ccfcbe654f835933b1974046b
+      internalID: 1743229642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_90
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 618
+        width: 102
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e27446d707cebd419feedb9e3cd4580
+      internalID: -1179135472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_91
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 662
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be27359d2a4da8c4898bbdac766b00ac
+      internalID: -1339014054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_92
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 598
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04cc65f0b8293145b263fc068062ec4
+      internalID: 531409337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_93
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 600
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14851258099c6d34db979014b5a43b8f
+      internalID: 595922671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_94
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 622
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c9adb47ec6e614ba8c6af533971cf2
+      internalID: -1841591865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_95
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 618
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766f67e2ed42c23419ebf4405285ff5f
+      internalID: -588700331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_96
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 630
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396f03bc14721574c96a48b9d2a7a01c
+      internalID: 685820695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_97
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 66
+        width: 649
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ddcef3b7307354ead93341b7fb3af8
+      internalID: -908286865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_98
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 546
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d23718e3d34d242821ad3eac5c7aeb
+      internalID: -2056280420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_99
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 585
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859d28fb04cbb954580173f7971a23cf
+      internalID: -567454144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_100
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 582
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be532435f813b7b40966981839f4b97c
+      internalID: -1901265245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_101
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 552
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b05ae83ecb2164fad6f643ba062a7c
+      internalID: 2086475232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_102
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 585
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4084f6312fc457a4f84435dc593fee44
+      internalID: -1292767592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_103
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 595
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aae3c250bf928f49a3bedfbc057a992
+      internalID: -1399217756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_104
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 377
+        width: 117
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19a690d4561fe44daa875e694e01196
+      internalID: 813331319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_105
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 210
+        width: 102
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7515223bd45424442bce0a056c9f19df
+      internalID: 1560102378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_106
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 318
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcf95d8ce11e244f96cf5f6c10daab1
+      internalID: 453127841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_107
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 28
+        width: 170
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5473d8bb8cc24428a23b1d014b629e
+      internalID: 1759732367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_108
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 46
+        width: 114
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6f4e097ddaa0440afc084c464edbf2
+      internalID: -1508373244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_109
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 24
+        width: 290
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac00be9ec6ffc5468bf7ddb73f2bbb1
+      internalID: 1124667798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_110
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 36
+        width: 277
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98841253ef4a85a46992a1f8bd5bb1a5
+      internalID: 1337811230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_111
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 121
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acc6f738c3660244ba6f1a7cffb3078
+      internalID: -1703611145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_112
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 36
+        width: 84
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e85082ddf9f1744927f046191f0e5f
+      internalID: -1089203213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_113
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 60
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2a609b3c5326840999d8baa38d2342
+      internalID: -641983921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_114
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 60
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7ca3ff8191b874e8a84cf1b88d65e7
+      internalID: 1114404908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_115
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 60
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6119fe09dbc0240a656cef022547ea
+      internalID: 1511255211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_116
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 60
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a142f43fb6fff4bb69feca6dd607f7
+      internalID: -2141869577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_117
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fc35cda1a3a3e4a9e7d79476a32ce2
+      internalID: 824442597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 185
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: -28}
+        - {x: 30, y: 17}
+        - {x: 35, y: 17}
+        - {x: 35, y: -28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e7de454f766c24dbd6ac0aab6bf0e5
+      internalID: -817891817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_119
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 454
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0decd5f9b1c410b4f8e1d3a2e0d04d85
+      internalID: 719023118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_120
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 325
+        width: 176
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99afdfe794fdfb488af69d8d9f37ef0
+      internalID: 305058493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_121
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 283
+        width: 103
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c59379b9ae0ef4c935fdb9213471ba
+      internalID: -577731894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_122
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 216
+        width: 185
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf382a225aa12046ad33296dfeebbf3
+      internalID: 824138117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_123
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 378
+        width: 172
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6e2089f82d59e489ac02c26476502c
+      internalID: -1438781259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_124
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 388
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f954462fea6f6aa438b0aa4c1587145e
+      internalID: 903278595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_125
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 521
+        width: 290
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba28f5cb1cb13443b9418a3012dfc51
+      internalID: -1768352196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_126
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 389
+        width: 326
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747814d193ecea94f817bfcb5e02ccae
+      internalID: 378509524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objectives_texture_127
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 259
+        width: 321
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d512b7aecd515f46bea3b47b41c32ba
+      internalID: -1107142102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      objectives_texture_0: 1320200870
+      objectives_texture_1: 1862763959
+      objectives_texture_10: 769613353
+      objectives_texture_100: -1901265245
+      objectives_texture_101: 2086475232
+      objectives_texture_102: -1292767592
+      objectives_texture_103: -1399217756
+      objectives_texture_104: 813331319
+      objectives_texture_105: 1560102378
+      objectives_texture_106: 453127841
+      objectives_texture_107: 1759732367
+      objectives_texture_108: -1508373244
+      objectives_texture_109: 1124667798
+      objectives_texture_11: 1592671210
+      objectives_texture_110: 1337811230
+      objectives_texture_111: -1703611145
+      objectives_texture_112: -1089203213
+      objectives_texture_113: -641983921
+      objectives_texture_114: 1114404908
+      objectives_texture_115: 1511255211
+      objectives_texture_116: -2141869577
+      objectives_texture_117: 824442597
+      objectives_texture_118: -817891817
+      objectives_texture_119: 719023118
+      objectives_texture_12: -1313065217
+      objectives_texture_120: 305058493
+      objectives_texture_121: -577731894
+      objectives_texture_122: 824138117
+      objectives_texture_123: -1438781259
+      objectives_texture_124: 903278595
+      objectives_texture_125: -1768352196
+      objectives_texture_126: 378509524
+      objectives_texture_127: -1107142102
+      objectives_texture_13: 597992846
+      objectives_texture_14: 1534619458
+      objectives_texture_15: 2099560114
+      objectives_texture_16: -1910992981
+      objectives_texture_17: -829183414
+      objectives_texture_18: -1163142676
+      objectives_texture_19: -167665549
+      objectives_texture_2: -984692625
+      objectives_texture_20: -7336412
+      objectives_texture_21: 1238365576
+      objectives_texture_22: 1843198223
+      objectives_texture_23: -1344851634
+      objectives_texture_24: 1148382997
+      objectives_texture_25: 1782148245
+      objectives_texture_26: -171634978
+      objectives_texture_27: -15491836
+      objectives_texture_28: -1450565515
+      objectives_texture_29: -1320828563
+      objectives_texture_3: -592363645
+      objectives_texture_30: 776430795
+      objectives_texture_31: -1930428297
+      objectives_texture_32: 925307470
+      objectives_texture_33: -527998302
+      objectives_texture_34: -1300954921
+      objectives_texture_35: 890125041
+      objectives_texture_36: 939322362
+      objectives_texture_37: -1666883504
+      objectives_texture_38: -409603453
+      objectives_texture_39: 798091600
+      objectives_texture_4: 1230772892
+      objectives_texture_40: -2108797348
+      objectives_texture_41: -863965163
+      objectives_texture_42: -1352176119
+      objectives_texture_43: 1374884630
+      objectives_texture_44: 809734543
+      objectives_texture_45: 1243821747
+      objectives_texture_46: -370161035
+      objectives_texture_47: -40580787
+      objectives_texture_48: 537536742
+      objectives_texture_49: 1250755441
+      objectives_texture_5: 2133036202
+      objectives_texture_50: 43392993
+      objectives_texture_51: 803363667
+      objectives_texture_52: 361395645
+      objectives_texture_53: -1286659158
+      objectives_texture_54: 1562930163
+      objectives_texture_55: -565831403
+      objectives_texture_56: 1023316161
+      objectives_texture_57: -1044813036
+      objectives_texture_58: 1398144018
+      objectives_texture_59: 1402791900
+      objectives_texture_6: 444365153
+      objectives_texture_60: 1924589540
+      objectives_texture_61: 501552370
+      objectives_texture_62: -1872082898
+      objectives_texture_63: -246386075
+      objectives_texture_64: 1424788277
+      objectives_texture_65: 642211994
+      objectives_texture_66: -377596227
+      objectives_texture_67: -1326473351
+      objectives_texture_68: -796597417
+      objectives_texture_69: 355472428
+      objectives_texture_7: -1336947973
+      objectives_texture_70: -1927337237
+      objectives_texture_71: -685694761
+      objectives_texture_72: -1614834676
+      objectives_texture_73: -307363493
+      objectives_texture_74: -1824010913
+      objectives_texture_75: 1135469750
+      objectives_texture_76: 767528389
+      objectives_texture_77: 1126007246
+      objectives_texture_78: -144607117
+      objectives_texture_79: 1991144905
+      objectives_texture_8: -1227484840
+      objectives_texture_80: 1940196357
+      objectives_texture_81: 1724694915
+      objectives_texture_82: 182407048
+      objectives_texture_83: 1875639927
+      objectives_texture_84: -389561952
+      objectives_texture_85: -1860043659
+      objectives_texture_86: 821533616
+      objectives_texture_87: 1646798192
+      objectives_texture_88: -885079400
+      objectives_texture_89: 1743229642
+      objectives_texture_9: -1176080160
+      objectives_texture_90: -1179135472
+      objectives_texture_91: -1339014054
+      objectives_texture_92: 531409337
+      objectives_texture_93: 595922671
+      objectives_texture_94: -1841591865
+      objectives_texture_95: -588700331
+      objectives_texture_96: 685820695
+      objectives_texture_97: -908286865
+      objectives_texture_98: -2056280420
+      objectives_texture_99: -567454144
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
